@@ -1,1 +1,1 @@
-# datalake_automation
+A Jupyter notebook designed to run in AWS Sagemaker that automates the retrieval, population and setup of a basic AWS-based data lake. 
